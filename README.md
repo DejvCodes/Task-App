@@ -8,7 +8,7 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react)](https://skillicons.dev)
 
 ## 🌐 Link
-<a href="https://task-app-dejvcodes.netlify.app/">React-Hooks</a>
+<a href="https://task-app-dejvcodes.netlify.app/">Task App</a>
 
 ## License🔐
 [MIT License](LICENSE)
