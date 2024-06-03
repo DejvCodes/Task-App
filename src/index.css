@@ -1,0 +1,11 @@
+body {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-size: 18px;
+  color: #e4e4e4;
+  background: #062054;
+}
+.all-tasks {
+  margin: 120px 15px 0 15px;
+}
